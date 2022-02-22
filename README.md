@@ -1,16 +1,16 @@
-# tech-career-journeys
+# Tech Career Journeys
 
 ## A summary of career journeys into Tech
 
 
-### Step by step :
+### Step by step on how to:
 
-1. Clone this repo to your local machine
-2. Make sure you're logged into GitHub 
+1. Clone this repo to your local machine ``` git clone https://github.com/Deengineers/tech-career-journeys.git ```
+2. Make sure you're logged into GitHub and configured your account. 
 3. Make a new file in this directory and name it using your name or alias. For e.g. "deengineers.md"
-4. Fill out a summary of your journey and feel free to copy the template provided
+4. Fill out a summary of your journey in the newly created markdown file and feel free to follow the template provided or however you wish.
 5. Once complete, save your work and create a branch using:  ``` git checkout -b "name of branch" ```
-6. Once happy with that do that following steps:
+6. Once happy with that do that following steps: 
 
 ```sh
 

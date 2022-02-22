@@ -1,6 +1,6 @@
 # Tech Career Journeys
 
-## A summary of career journeys into Tech
+## :small_blue_diamond: A summary of career journeys into Tech
 
 
 ### Step by step on how to:

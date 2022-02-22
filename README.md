@@ -24,5 +24,12 @@ git push
 
 7. Once pushed, go to the GitHub repo, refresh the page and create pull request and this will be approved by the admins.
 
-#### Deengineers sample questions to answer in your tech-journey
+### Deengineers sample questions to answer in your tech-journey
 
+
+### Some good examples of journeys
+
+- [Murrad](./murrad.md)
+- [Abdurahman](./abdurahman.md)
+- [Adam](./adam.md)
+- [Adil](./adil.md)

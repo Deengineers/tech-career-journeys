@@ -26,4 +26,3 @@ git push
 
 #### Deengineers sample questions to answer in your tech-journey
 
-1. 

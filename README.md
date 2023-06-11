@@ -29,7 +29,4 @@ git push
 
 ### Some good examples of journeys
 
-- [Murrad](./murrad.md)
-- [Abdurahman](./abdurahman.md)
-- [Adam](./adam.md)
-- [Adil](./adil.md)
+- []()
